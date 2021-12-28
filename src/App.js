@@ -9,7 +9,7 @@ function App() {
           Release
         </p>
       </header>
-      <p>another</p>
+      <p>another one</p>
     </div>
   );
 }

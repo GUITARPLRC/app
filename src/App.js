@@ -9,6 +9,7 @@ function App() {
           Release
         </p>
       </header>
+      <p>another</p>
     </div>
   );
 }
